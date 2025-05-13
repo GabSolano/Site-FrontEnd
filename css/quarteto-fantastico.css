@@ -1,6 +1,6 @@
 .hero-label {
   display: flex;
-  width: 500px;
+  width: 450px;
   background-color: #1b1f23;
   color: #fff;
   justify-content: space-around;
@@ -21,4 +21,11 @@
 
 .hero-name {
   font-weight: 700;
+}
+
+.quarteto-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: space-around;
 }
