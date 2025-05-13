@@ -26,6 +26,4 @@
 .quarteto-container {
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;
-  justify-content: space-around;
 }
