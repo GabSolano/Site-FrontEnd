@@ -1,0 +1,10 @@
+.nav-container {
+    background-color:#32CD32 ;
+
+}
+
+.nav-container ul {
+
+    display: flex;
+    
+}
