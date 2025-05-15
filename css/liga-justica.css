@@ -1,0 +1,34 @@
+@media (max-width: 600px) {
+    section{
+        flex-direction: column;
+    }
+}
+
+
+
+.hero-box{
+    width: 50vh;
+    background-color: #eee;
+    text-align: center;
+    border: #ffd700 2px solid;
+}
+
+@media (min-width: 768px) {
+    .hero-box{
+        border: #00bfff 10px dashed;
+    }
+}
+
+.hero-box img {
+    width: 20vw ;
+    height: 50vh;
+}
+
+.hero-box p {
+    font-size: 0.75rem;
+}
+
+section {
+    display: flex;
+}
+
